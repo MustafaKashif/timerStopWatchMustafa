@@ -1,0 +1,32 @@
+.timer{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+ margin: 5px;
+ padding: 10px;
+ font-weight: bold;
+ background-color: black;
+ border-radius:5px;
+ color: white;
+ width: 80px;
+}
+
+.main{
+    border: 1px solid black;
+    padding: 10px;
+    background: linear-gradient(white, darkgray);
+}
